@@ -1,0 +1,9 @@
+Package: com.abdullah.cameractm13
+Name: CameraCTM13
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable CTM Mode For Unsupported devices - Camera App
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
